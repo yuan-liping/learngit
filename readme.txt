@@ -6,6 +6,7 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 add merge
+fix bug 101
 stash 1
 stash 2
 stash 3
